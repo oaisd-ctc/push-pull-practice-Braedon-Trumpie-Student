@@ -20,6 +20,9 @@ img {
     left: 25%;
     position: relative;
     transform: rotate(180deg);
+    border-radius: 5em;
+    border-color: black;
+    border-style: solid;  
 }
 
 .main-box {
