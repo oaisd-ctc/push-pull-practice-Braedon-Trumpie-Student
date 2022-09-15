@@ -11,6 +11,8 @@ img {
     width: 75%;
     margin-left: 5em;
     border-radius: 5em;
+    border-color: black;
+    border-style: solid;
 }
 body {
 
@@ -18,4 +20,8 @@ body {
 
 footer {
     text-align: center;
+}
+
+#capybaratext {
+    text-indent: 22%;
 }
