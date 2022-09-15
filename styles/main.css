@@ -1,0 +1,40 @@
+p {
+    text-align: center;
+    color: gold;
+}
+
+h1 {
+    text-align: center;
+    color: goldenrod;
+
+}
+
+img {
+    width: 50%;
+    left: 25%;
+    position: relative;
+}
+
+.main-box {
+    height: 100px;
+    width: 100%;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    color: gold;
+}
+
+body {
+    background-color: purple;
+}
+
+a {
+    color: gold;
+    text-align: center;
+
+}
+
+h6 {
+    color: gold;
+    text-align: center;
+}
